@@ -1,4 +1,6 @@
 <?php
 
+/* comment */
+
 echo phpinfo();
 
